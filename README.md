@@ -9,9 +9,13 @@ This an analysis of the Africa Millennium Development goals (AMDG) aimed at iden
 The analysis is guided by five key questions:
 
 •	What is the historical trend in the proportion of parliamentary seats held by women in Africa?
+
 •	Which country has seen the greatest increase?
+
 •	How does the ratio of girls to boys in primary, secondary, and tertiary education compare across countries?
+
 •	Which country has the greatest parity difference?
+
 •	Is there a correlation between the ratios of girls to boys in higher education and the proportion of women in non-agricultural wage employment?
 
 **Method of Analysis**
